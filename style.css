@@ -608,7 +608,7 @@ background: linear-gradient(135deg, #d46b3a, #e79f7d);
     color: white; /* Soft green on hover for interaction feedback */
     transform: translateX(5px); /* Slight movement for subtle hover effect */
 }
-.fListItem a{
+a{
     text-decoration: none;
     color: white;
 }
